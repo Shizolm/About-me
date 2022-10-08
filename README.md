@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CredDesign<br>👯 I’m looking to collaborate on  CredDesign<br>🤝 I’m looking for help with react<br>🌱 I’m currently learning react<br>💬 Ask me about about javascript<br>⚡ Fun fact - i feel likr i'm the only tech guy that does'nt watch anime
+🔭 I’m currently working on CredDesign<br>👯 I’m looking to collaborate on  CredDesign<br>🤝 I’m looking for help with react<br>🌱 I’m currently learning react<br>💬 Ask me about about javascript<br>⚡ Fun fact - i feel like i'm the only tech guy that does'nt watch anime
 
 
 ## 🌐 Socials:
